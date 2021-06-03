@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="icon">Icon</string>
+    <string name="flare_sos_poc">Flare SOS POC</string>
+    <string name="get_current_location_and_city_name">Get Current Location and City Name</string>
+</resources>
